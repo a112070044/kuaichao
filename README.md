@@ -13,4 +13,12 @@
 
 存檔只存在你自己的瀏覽器裡。
 
+## 加到主畫面（App）
+
+- iPhone（Safari）：打開網址 → 分享 → 加入主畫面。
+- Android（Chrome）：打開網址 → 選單 → 安裝應用程式／加到主畫面。
+- 電腦（Chrome、Edge）：網址列右邊的安裝圖示。
+
+玩過一次之後，沒有網路也能開。
+
 整個遊戲就是一個 `index.html`，3D 畫面用 [three.js](https://threejs.org/)（r128，從 cdnjs 載入）。
